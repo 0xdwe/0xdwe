@@ -1,4 +1,8 @@
-## Hi there 👋
+👋🏻Hello !
+
+A student at 國立清華大學. 
+
+Do What Excites !
 
 <!--
 **0xdwe/0xdwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
